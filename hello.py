@@ -6,3 +6,5 @@ name = "은서"
 print(f"{name}님 반갑습니다")
 name = "하영"
 print(f"{name}님 반갑습니다")
+name = "YG"
+print(f"{name}님 반갑습니다")
